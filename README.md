@@ -43,4 +43,4 @@ Some things about me:<br>
 </a>
 <a href="https://github.com/AGSathishkumar">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGSathishkumar&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
-</a> 
+</a>  
