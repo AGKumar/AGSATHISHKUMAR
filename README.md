@@ -9,10 +9,13 @@ I like to build the automation framework for Front and Backend Automation. I lov
 
 Some things about me:<br>
 
-** 
 🔭 I’m currently working on : Automation Engineer both frontEnd and BackEnd(Web & API) and Jenkins <br>
 
 💬 I’m worked on : Different domains like Telecommunication,Insurance and Construction <br>
+
+🌱 About : | Exploratory Tester | Quick Learner
+
+🌍 I am mostly active on LinkedIn
 
 😄 Pronouns: He / Him 👨<br>
 
