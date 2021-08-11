@@ -7,3 +7,6 @@ Here are some ideas to get you started:<br>
 📫- How to reach me: <a href="https://www.linkedin.com/in/sathishkumar-sdet/">LinkedIn</a> <br>
 😄 Pronouns: He / Him 👨<br>
 💬 Ask me about Web & API Automation
+
+[![ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss)](https://github.com/anuraghazra/github-readme-stats)
+
