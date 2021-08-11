@@ -5,7 +5,6 @@ I'm a Automation Developer.I have a strong passion for Test and Automation engin
  
 I like to build the automation framework for Front and Backend Automation. I love to create a Pipelines and Node Configuration in Jenkins for Execution of the Test in servers and to solve problem in automation triggering.
 
-
 Some things about me:<br>
 
 🔭 I’m currently working on : Automation Engineer both frontEnd and BackEnd(Web & API) and Jenkins <br>
