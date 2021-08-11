@@ -8,5 +8,13 @@ Here are some ideas to get you started:<br>
 😄 Pronouns: He / Him 👨<br>
 💬 Ask me about Web & API Automation
 
-[![ss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.glitch.me/badge?page_id=AGSathishkumar)
 
+<br/>
+
+<a href="https://github.com/AGSathishkumar">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AGSathishkumar&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Sathish's github stats" />
+</a>
+<a href="https://github.com/AGSathishkumar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGSathishkumar&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
+</a> 
